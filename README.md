@@ -1,8 +1,8 @@
-# CornerGrocerProject
-cs-210 project 3
+# Corner Grocer Item Tracking Program
 
-# CS 210 Portfolio Reflection
-## Corner Grocer Item Tracking Program
+## Overview
+
+This project was completed for CS 210 at Southern New Hampshire University. It demonstrates object-oriented programming in C++, file input and output, use of the Standard Template Library (STL), and menu-driven application design. The program reads grocery purchase data from an input file, tracks item frequencies, displays reports, and creates a backup frequency file.
 
 ### Project Summary
 
